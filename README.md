@@ -1,5 +1,5 @@
 # Reading-from-file-into-array
-// مها محمد حمدى
+
 
 #include <iostream>
 #include <fstream>
